@@ -5,10 +5,15 @@ This is the information I am going to give to Phil.
 Training
 
 -   [Free Code Camp](https://www.freecodecamp.org/learn/)
-    -   Responsive Web Design Certification (300 hours)
-    -   JavaScript Algorithms and Data Structures Certification (up to 300 hours)
-        -   Review sections 1 - 4 (out of 10) (~120 hours)
-    -   Front End Libraries Certification (300 hours)
+    -   Language-only
+        -   [Basic HTML and HTML5](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+        -   [Basic CSS](https://www.freecodecamp.org/learn/responsive-web-design/basic-css/)
+        -   [Basic Javascript](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/)
+    -   Certifications
+        -   Responsive Web Design Certification (300 hours)
+        -   JavaScript Algorithms and Data Structures Certification (up to 300 hours)
+            -   Review sections 1 - 4 (out of 10) (~120 hours)
+        -   Front End Libraries Certification (300 hours)
 -   [Scrimba](https://scrimba.com/allcourses)
     -   [Introduction to HTML](https://scrimba.com/g/ghtml)
     -   [Introduction to CSS](https://scrimba.com/g/gintrotocss)
