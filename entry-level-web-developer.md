@@ -1,7 +1,5 @@
 Mentoring someone who is new to web development.
 
-This is the information I am going to give to Phil.
-
 Training
 
 -   [Free Code Camp](https://www.freecodecamp.org/learn/)
